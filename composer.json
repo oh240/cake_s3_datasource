@@ -1,0 +1,20 @@
+{
+	"name": "oh240/cake_s3_datasource",
+	"type": "cakephp-plugin",
+	"extra": {
+		"installer-name": "AmazonS3"
+	},
+	"description": "AWS Plugin for CakePHP",
+	"keywords": ["cakephp","aws","aws-sdk"],
+	"authors": [
+		{
+			"name": "oh240",
+			"email": "littlecub240@gmail.com",
+			"homepage": "http:/oh240.github.io"
+		}
+	],
+	"require": {
+		"php": ">=5.2.8",
+		"composer/installers": "*"
+	}
+}
